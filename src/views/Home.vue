@@ -3,6 +3,9 @@
     <router-link to="/operation-summary">
       <Button type="primary">运维汇总</Button>
     </router-link>
+    <router-link to="/Test1">
+      <Button type="primary">Test1</Button>
+    </router-link>
   </div>
 </template>
 
